@@ -1,0 +1,34 @@
+
+SCRIPTED DEMO: GenAI Patient Diary Chatbot (3 Patients)
+🕒 Duration: 10–15 mins
+
+👩 PATIENT A: Susan
+Day 1: “Didn’t feel right. Head felt funny. Nauseous. Couldn’t sleep.”
+Bot: “When you say 'felt funny', do you mean dizziness or pressure?”
+Susan: “Dizziness. Nausea was a 7. Couldn’t fall asleep.”
+...
+Day 3: “Still dizzy. New headache. Sleep still poor.”
+Bot: “Is the dizziness worse? Type of headache?”
+Susan: “Yes, worse. Headache is pressure-like. Slept 6/10.”
+
+👨 PATIENT B: Mike
+Day 1: “Anxious this morning. Didn’t eat. Felt shaky.”
+Bot: “Was it trembling or weakness?”
+Mike: “Trembling. Anxiety came and went. Lasted 2 hours.”
+...
+Day 4: “Ate today. Just mild fatigue.”
+Bot: “Thanks. Fatigue improving or stable?”
+
+👩 PATIENT C: Maria
+Day 2: “Felt very tired. Legs aching. Had a mild fever.”
+Bot: “Fever temp? Pain constant or intermittent?”
+Maria: “100.8°F. Leg pain came and went. Mostly fatigue.”
+...
+Day 5: “Feeling better. Just a little soreness.”
+Bot: “Improving each day? Where is the soreness?”
+Maria: “Yes. Mainly in calves.”
+
+📊 Demo Summary:
+- Adaptive questioning, clarification, tagging
+- Full conversation memory
+- Scrollable interface like ChatGPT
